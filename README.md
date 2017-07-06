@@ -3,3 +3,7 @@
 This is the first commit 
 
 This is test project
+
+Adding Mail Alert
+
+
